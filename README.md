@@ -12,10 +12,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-
-
-![Figma](<img width="200" height="298" alt="image" src="https://github.com/user-attachments/assets/1cebd3ff-2f64-4c3a-9129-e94e475b2039" />)
-![Slack](<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/afc1b305-8855-410b-904d-7f28d47d9ad1" />)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
