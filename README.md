@@ -14,10 +14,14 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+---
+
 ### 🧩 프레임워크 & 라이브러리  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot">
+
+---
 
 ### 🤝 협업 & 디자인 도구  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
