@@ -12,7 +12,9 @@
 ### 💻 사용 언어  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 
 ### 🧩 프레임워크 & 라이브러리  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
@@ -36,6 +38,23 @@
 | 테트리스게임 | 유명한 테트리스 게임에 펫 구매 기능을 추가하여, 유저의 목표성을 부여하자는 목표로 계획한 프로젝트 | [GitHub](https://github.com/xlouisjungx/c_game_project.git) |
 | DISPLAY SHOW | OpenCV와 라즈베리 파이를 이용하여 원하는 데이터를 시각적으로 표현해보자는 목표로 계획한 프로젝트 | [GitHub](https://github.com/xlouisjungx/Project_MBH.git) |
 | 스마트미러 | API 허브 데이터를 활용한 스마트 미러 패널을 통해 IOT 기술에 가장 가까운 결과물을 구현해보자는 목표로 계획한 프로젝트 | [GitHub](https://github.com/xlouisjungx/Project_MBH.git) |
+
+---
+
+## 📌 개인 프로젝트
+
+(업데이트 예정)
+
+---
+
+## 📌 개인 학습
+
+(업데이트 예정)
+
+| 프로젝트 이름 | 설명 | 링크 |
+|---------------|------|------|
+| 알고리즘 공부 | DP, 그리디, 구현, BFS/DFS, 백트래킹 카테고리의 알고리즘 문제를 해결 | [GitHub](https://github.com/xlouisjungx/Algorithm_Study.git) |
+| 언어 공부 | 다양한 언어들을 공부 | [GitHub](https://github.com/xlouisjungx/coding_langs.git) |
 
 ---
 
