@@ -7,13 +7,23 @@
 
 ## 🚀 기술 스택
 
-(업데이트 예정)
+<div style="border: 1px solid #ccc; padding: 1em; border-radius: 8px">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+### 💻 사용 언어  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+### 🧩 프레임워크 & 라이브러리  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot">
+
+### 🤝 협업 & 디자인 도구  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+</div>
 
 ---
 
