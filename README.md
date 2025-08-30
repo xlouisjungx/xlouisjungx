@@ -74,8 +74,7 @@
 
 - 포트폴리오: https://www.porifo.com//create/dba8f110-fcdb-4a73-9adf-105bb7a551ee
 - 이메일: programmerlouis@gmail.com
-- 노션: (작성 예정)
-- 연락처: (작성 예정)
+- 노션: https://mixolydian-stoat-6e9.notion.site/253c0be4523480bf96c4ed40145ae3f9?source=copy_link
 
 ---
 
